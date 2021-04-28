@@ -10,4 +10,4 @@ Micro Rat in python. Just clone the repo and run via python in terminal.
 # System Info
 ![Alt text](https://github.com/X1pe0/bitrat/blob/main/imgs/Screenshot%20at%202021-02-26%2014-21-16.png "Image")
 # Gen
-![Alt text](https://github.com/X1pe0/bitrat/blob/main/imgs/Screenshot%20at%202021-02-26%2014-23-52.png "Image")
+![Alt text](https://github.com/X1pe0/brat/blob/main/imgs/Screenshot%20at%202021-04-28%2009-59-26.png "Image")
